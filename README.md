@@ -10,7 +10,7 @@ Ocuris is an application that aids colorblind and hearing-impaired individuals t
 # Requirements
 
 C++
-Cmake
+Aquila library
 
 # Screenshots
 
